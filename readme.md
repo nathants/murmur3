@@ -1,4 +1,4 @@
-#####three versions of the murmur3-x86-32 non-cryptographic hash function, in java, python, and c.
+### three versions of the murmur3-x86-32, in java, python, and c.
 
 - useful for hashing small inputs, like uuids, and is probably not the best choice for hashing large files
 
