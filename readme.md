@@ -50,4 +50,4 @@ python3 is the c code with a python3 wrapper from:
 
 ### license
 
-All this code is in the public domain. Murmur3 was created by Austin Appleby. The above sources are ports by their respective authors are also in the public domain, as is everythingn else here.
+All this code is in the public domain. Murmur3 was created by Austin Appleby. The above sources are ports by their respective authors and are in the public domain, as is everything else here.
